@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Tread-2036
-- 👀 I’m interested in ... well programming, mainly web development, apis, music, talking (and video games) ...
-- 🌱 I’m currently learning ... more JavaScript, Java, server client relationships ...
-- 💞️ I’m looking to collaborate on ... I like independence so, not so much collab, but yeah I'll try commit to open source ...
-- 📫 How to reach me ... well Github? My email address?... 
-
-<!---
-Tread-2036/Tread-2036 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @PrabhieG
+- 👀 I'm interested in microcontrollers, webdev, software, hardware, engineering, art
+- 📫 tread2036@gmail.com
