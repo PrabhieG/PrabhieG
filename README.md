@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PrabhieG
 - 👀 I'm interested in microcontrollers, webdev, software, hardware, engineering, art
-- 📫 tread2036@gmail.com
+- 📫 prabhieg@gmail.com
